@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on My Portfolio</description>
-    <generator>Hugo</generator>
+    <title>Andrea Toaiari</title>
+    <link>/</link>
+    <description>Recent content on Andrea Toaiari</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Sep 2024 15:16:21 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>//localhost:1313/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/</guid>
-      <description>&lt;h3 id=&#34;prediction-of-patients-with-liver-disease&#34;&gt;Prediction of patients with liver disease&lt;/h3&gt;&#xA;&lt;p&gt;In this Python project, I performed data exploration, cleaning, and applied machine learning techniques to analyze a dataset of patients with and without liver disease. Using libraries like &lt;em&gt;NumPy, Pandas, Matplotlib, and Scikit-learn&lt;/em&gt;, I built a predictive model to assess the likelihood of liver disease. This involved preprocessing the data, visualizing trends, and training a classification model to predict the presence of the disease, aiming to aid in early diagnosis and healthcare decisions.&lt;/p&gt;</description>
+      
+      <guid>/projects/</guid>
+      <description>&lt;h3 id=&#34;prediction-of-patients-with-liver-disease&#34;&gt;Prediction of patients with liver disease&lt;/h3&gt;
+&lt;p&gt;In this Python project, I performed data exploration, cleaning, and applied machine learning techniques to analyze a dataset of patients with and without liver disease. Using libraries like &lt;em&gt;NumPy, Pandas, Matplotlib, and Scikit-learn&lt;/em&gt;, I built a predictive model to assess the likelihood of liver disease. This involved preprocessing the data, visualizing trends, and training a classification model to predict the presence of the disease, aiming to aid in early diagnosis and healthcare decisions.&lt;/p&gt;</description>
+      <content>&lt;h3 id=&#34;prediction-of-patients-with-liver-disease&#34;&gt;Prediction of patients with liver disease&lt;/h3&gt;
+&lt;p&gt;In this Python project, I performed data exploration, cleaning, and applied machine learning techniques to analyze a dataset of patients with and without liver disease. Using libraries like &lt;em&gt;NumPy, Pandas, Matplotlib, and Scikit-learn&lt;/em&gt;, I built a predictive model to assess the likelihood of liver disease. This involved preprocessing the data, visualizing trends, and training a classification model to predict the presence of the disease, aiming to aid in early diagnosis and healthcare decisions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kavinskyt.github.io/cases/ds_report.html&#34;&gt;Here&lt;/a&gt; you can find the report with the results.&lt;/p&gt;
+&lt;h3 id=&#34;data-visualization-on-cais-accomodation-facilities&#34;&gt;Data Visualization on CAI’s accomodation facilities&lt;/h3&gt;
+&lt;p&gt;In this project, I analyzed a dataset containing information about mountain huts owned by the Italian Mountain Club. After conducting data exploration and cleaning, I created a tidy dataset to perform visualizations. I highlighted the geographical distribution of the huts and explored the relationship between their location, altitude, and available services. The project utilized the Tidyverse collection of packages, with a focus on ggplot2 for creating insightful visual representations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kavinskyt.github.io/cases/dv_report.html&#34;&gt;Here&lt;/a&gt; you can find the report with the results.&lt;/p&gt;
+&lt;h3 id=&#34;optimal-snow-producer-configuration-w-technoalpin&#34;&gt;Optimal Snow Producer Configuration w/ TechnoAlpin&lt;/h3&gt;
+&lt;p&gt;During my studies I had the opportunity to collaborate with &lt;a href=&#34;https://www.technoalpin.com/en/&#34;&gt;TechnoAlpin&lt;/a&gt; on the development of an optimization algorithm that minimises the number of snow producers and the power consumption on a ski slope. I Utilised Python geopandas library, knowledge on Coordinate Reference System (CRS) and Digital Elevation Model (DEM) to manipulate geodata and model every aspect of a ski slope. I Developed two ground-base approaches that automatically suggest a configuration of producers that ensures a balanced distribution of snow on the slope.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
